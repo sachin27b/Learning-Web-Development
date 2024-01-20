@@ -1,0 +1,13 @@
+h2{
+    font-weight: normal;
+}
+.color-title[id="red"]{
+    color: red;
+}
+.color-title[id="blue"]{
+    color: blue;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
